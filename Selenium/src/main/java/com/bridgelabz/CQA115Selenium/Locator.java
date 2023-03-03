@@ -32,7 +32,7 @@ public class Locator {
 
         WebElement driverElement2 = driver.findElement(By.cssSelector("#pass"));
 
-        driverElement2.sendKeys("Aditya@120");
+        driverElement2.sendKeys("Avi@120");
 
         Thread.sleep(2000);
 
