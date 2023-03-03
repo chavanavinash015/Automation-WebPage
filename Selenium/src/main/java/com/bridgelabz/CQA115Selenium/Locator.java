@@ -15,7 +15,7 @@ public class Locator {
 
         WebElement driverElement = driver.findElement(By.id("email"));
 
-        driverElement.sendKeys("adityabharti.ab@gmail.com");
+        driverElement.sendKeys("avichavan015@gmail.com");
 
         Thread.sleep(2000);
         driverElement.clear();
@@ -24,7 +24,7 @@ public class Locator {
 
         WebElement driverElement1 = driver.findElement(By.name("email"));
 
-        driverElement1.sendKeys("9812040783");
+        driverElement1.sendKeys("9812035353");
 
         Thread.sleep(2000);
 
